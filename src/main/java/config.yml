@@ -1,0 +1,12 @@
+database:
+  needed: false
+  type: "mysql"
+  sqlite_filename: "XCore.db"
+  host: "127.0.0.1"
+  port: "3306"
+  database: "database"
+  username: "username"
+  password: "password"
+memory_fixer:
+  needed: true
+  min_memory: 1024
