@@ -1,5 +1,0 @@
-name: XSkyFall
-main: com.xgames178.SkyFall.SkyFall
-version: 1.0
-author: xgames178
-depend: [XCore]
